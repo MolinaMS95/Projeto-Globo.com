@@ -1,0 +1,207 @@
+body {
+  font-family: "Encode Sans", sans-serif;
+}
+a:hover {
+  filter: brightness(1.4);
+}
+.logoMobile {
+  display: none;
+}
+.caixaLogo {
+  height: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.caixaLogo img {
+  height: 36px;
+}
+.border {
+  border-top: solid 1px #f5f6f7;
+  border-bottom: solid 1px #f5f6f7;
+  height: 45px;
+}
+.barraTopo {
+  width: 1250px;
+  height: 45px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.barraTopo a {
+  font-weight: 700;
+  font-size: 19px;
+  letter-spacing: -2%;
+  text-decoration: none;
+}
+.g1 {
+  color: #c3170c;
+}
+.oglobo {
+  color: #1e4b9b;
+}
+.valor {
+  color: #006766;
+}
+.ge {
+  color: #07aa47;
+}
+.cartola {
+  color: #e3662b;
+}
+.globoplay {
+  color: #fb0735;
+}
+.dropz {
+  color: #ff75bb;
+}
+.gshow {
+  color: #ec7d00;
+}
+.quem {
+  color: #323333;
+}
+.receitas {
+  color: #a81d83;
+}
+.content {
+  width: 1250px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  justify-content: space-between;
+}
+.mainContent h4 {
+  font-size: 14px;
+  letter-spacing: -2%;
+  color: #c4170c;
+  font-weight: 500;
+}
+.main {
+  width: 624px;
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+  border-bottom: solid 1px #ebedef;
+}
+.principal {
+  font-size: 52px;
+  font-weight: bold;
+  color: #c4160c;
+  text-decoration: none;
+  letter-spacing: -1%;
+  margin-top: 34px;
+  margin-bottom: 22px;
+}
+.secundaria {
+  font-size: 18px;
+  color: #303134;
+  text-decoration: none;
+  letter-spacing: -1%;
+  margin-top: 10px;
+}
+.second {
+  width: 624px;
+  display: flex;
+  justify-content: space-between;
+  border-bottom: solid 1px #ebedef;
+}
+.second > div {
+  width: 193px;
+  display: flex;
+  flex-direction: column;
+}
+.second img {
+  border-radius: 12px;
+  width: 193px;
+  height: 110px;
+  margin-top: 25px;
+  margin-bottom: 11px;
+}
+.noticia {
+  font-weight: 700;
+  font-size: 20px;
+  letter-spacing: -4.5%;
+  text-decoration: none;
+  color: #2f3134;
+  margin-top: 6px;
+  margin-bottom: 8px;
+}
+.subnoticia {
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing: -4.8%;
+  text-decoration: none;
+  color: #2f3134;
+  margin-top: 9px;
+}
+.second .subnoticia {
+  margin-bottom: 36px;
+}
+.third .subnoticia {
+  margin-bottom: 36px;
+}
+.third {
+  width: 624px;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 25px;
+}
+.third div {
+  width: 193px;
+  display: flex;
+  flex-direction: column;
+}
+.caixa {
+  width: 310px;
+  border-left: solid 1px #ebedef;
+  border-right: solid 1px #ebedef;
+  margin-top: 36px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.caixa > div {
+  width: 240px;
+  display: flex;
+  flex-direction: column;
+}
+.caixa img {
+  width: 240px;
+  height: 128px;
+  border-radius: 12px;
+}
+.caixa h4 {
+  font-size: 14px;
+  letter-spacing: -2%;
+  color: #16ae54;
+  font-weight: 500;
+  margin-top: 11px;
+  margin-bottom: 6px;
+}
+.container {
+  margin-top: 36px;
+}
+.container > div {
+  width: 240px;
+  display: flex;
+  flex-direction: column;
+}
+.container img {
+  width: 240px;
+  height: 128px;
+  border-radius: 12px;
+}
+.container h4 {
+  font-size: 14px;
+  letter-spacing: -2%;
+  color: #ec8006;
+  font-weight: 500;
+  margin-top: 11px;
+  margin-bottom: 6px;
+}
+.imagem {
+  margin-top: 50px;
+}
